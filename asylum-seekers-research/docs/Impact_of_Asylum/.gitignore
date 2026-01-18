@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+*.csv
+*.xlsx
+*.json
+data/*.csv
+!data/data_dictionary.md
+
+# Models
+models/*.pkl
+models/*.h5
+models/*.joblib
+
+# Reports
+reports/*.pdf
+reports/*.docx
+!reports/README.md
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Images (except key visualizations)
+*.png
+*.jpg
+*.jpeg
+!asylum_harassment_mental_health_analysis.png
+!mental_health_impact_enhanced.png

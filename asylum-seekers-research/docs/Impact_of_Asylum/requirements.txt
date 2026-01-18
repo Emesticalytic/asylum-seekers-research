@@ -1,0 +1,25 @@
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Statistical Analysis
+scipy>=1.10.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Streamlit for Web App
+streamlit>=1.28.0
+plotly>=5.17.0
+
+# Optional: For data handling
+openpyxl>=3.1.0  # For Excel files
+xlrd>=2.0.0      # For older Excel formats
